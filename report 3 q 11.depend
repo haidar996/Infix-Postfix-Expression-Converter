@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700526136 source:d:\code\report 3 q 11\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
